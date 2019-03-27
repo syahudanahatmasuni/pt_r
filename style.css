@@ -1,0 +1,68 @@
+.jumbotron1 {
+    background-image: url("bg.jpg");
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container1 h1 {
+    color: white;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 180px;
+    padding-bottom: 20px;
+    font-size: 60px;
+}
+
+.container1 p {
+    color: black;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container1 a {
+    width: 230px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 25px;
+    padding-left: 45px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-left: 640px;
+
+}
+
+.asdf {
+    margin-right: 80px;
+}
+
+.img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url("bg.jpg");
+}
+
+.asd img {
+    height: 50px;
+    width: 50px;
+}
+
+.donasi input {
+    width: 100%;
+    font-size: 24px !important;
+    color: #4a4a4a;
+    background-color: #f2f3f4;
+    border-color: #f2f3f4;
+}
